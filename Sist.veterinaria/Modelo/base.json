@@ -1,0 +1,11 @@
+
+    {
+        "host" : "horton.db.elephantsql.com",
+        "port": 5432, 
+        "database": "pkutccnz",
+        "user": "pkutccnz",
+        "password": "Gk3Q1VW6i_YefdjUZFrS53SqFaLZvgHw"
+    }
+
+
+    
